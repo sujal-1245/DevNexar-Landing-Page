@@ -32,7 +32,7 @@
 
 ## ✨ Features
 
-* 🧠 **3D Hero Section** — WebGL/Three.js model integration with CTA
+* 🧠 **3D Hero Section** — Spline model integration with CTA
 * 🚀 **Service Highlights** — Modern cards displaying key offerings
 * 💬 **Testimonials** — Client feedback with animated transitions
 * 💰 **Pricing Plans** — Clean, tiered pricing section
