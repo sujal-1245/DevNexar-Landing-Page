@@ -36,7 +36,6 @@
 * 🚀 **Service Highlights** — Modern cards displaying key offerings
 * 💬 **Testimonials** — Client feedback with animated transitions
 * 💰 **Pricing Plans** — Clean, tiered pricing section
-* 📞 **Contact Form** — Functional form for user queries
 * 📱 **Responsive Layout** — Seamless across all devices
 
 ---
